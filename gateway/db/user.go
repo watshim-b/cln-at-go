@@ -2,7 +2,7 @@ package gateway
 
 import (
 	"github.com/watshim-b/cln-at-go/ent"
-	"github.com/watshim-b/cln-at-go/interface/web/form"
+	form "github.com/watshim-b/cln-at-go/form/web"
 )
 
 type userGateWay struct{}
